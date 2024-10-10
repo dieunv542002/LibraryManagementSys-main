@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "root",
+    "password": "GpGuBrasSEpOmEiFzmqSznQLZMnXJnMf",
+    "database": "perform_library",
+    "host": "mysql.railway.internal",
+    "dialect": "mysql",
+    "port": 3306,
+    "timezone": "+07:00",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "perform_library",
+    "host": "mysql.railway.internal",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "perform_library",
+    "host": "mysql.railway.internal",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
